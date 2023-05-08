@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  gap: 50px;
+  flex-wrap: wrap;
+}
+.picture__nature {
+  width: 350px;
+  height: 220px;
+}

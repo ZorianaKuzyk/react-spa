@@ -1,0 +1,66 @@
+.wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  color: white;
+}
+
+.cards {
+  background-color: #ddd;
+  padding: 40px;
+  overflow: hidden;
+}
+
+.search {
+  background-color: #cdcdcd;
+  padding: 12px 15px;
+  color: #444;
+  user-select: none;
+}
+
+.search__btn {
+  height: 30px;
+  width: 205px;
+  font-size: 16px;
+  padding: 0px 5px;
+  border: 1px solid white;
+}
+.search__btn:hover {
+  border: 1px solid #8282b3;
+  box-shadow: 0 0 8px #a5c3ff;
+}
+
+.header {
+  background-color: #5e5a5a;
+  padding: 12px 15px;
+  font-weight: bold;
+}
+
+.contacts {
+  padding: 6px 15px;
+  color: black;
+  border-bottom: 1px solid #ccc;
+  display: flex;
+  flex-direction: row;
+}
+
+.name {
+  width: 205px;
+  display: inline-block;
+}
+
+.phone {
+  width: 180px;
+  display: inline-block;
+}
+
+.sex {
+  width: 40px;
+  display: inline-block;
+}
+
+.check {
+  padding-left: 20px;
+}

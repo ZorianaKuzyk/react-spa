@@ -1,0 +1,22 @@
+.footer-social {
+  background-color: rgb(0, 0, 0);
+  height: 50px;
+
+  color: white;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.footer-social__link {
+  width: 25px;
+  height: 25px;
+  cursor: pointer;
+}
+.footer-social__link:hover {
+  transform: scale(1.2);
+  transition: all 0.3s ease-in-out;
+}
+.footer-social__link:active {
+  transform: scale(1.2);
+  transition: all 0.3s ease-in-out;
+}
