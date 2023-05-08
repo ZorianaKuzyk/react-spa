@@ -1,16 +1,28 @@
 {
   "files": {
-    "main.css": "/react-spa/static/css/main.073c9b0a.css",
-    "main.js": "/react-spa/static/js/main.d54b814b.js",
-    "static/js/787.14fe134e.chunk.js": "/react-spa/static/js/787.14fe134e.chunk.js",
-    "static/media/logo.svg": "/react-spa/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/react-spa/static/css/main.5e133042.css",
+    "main.js": "/react-spa/static/js/main.497082e1.js",
+    "static/js/651.d1f6e5b4.chunk.js": "/react-spa/static/js/651.d1f6e5b4.chunk.js",
+    "static/media/img3.jpg": "/react-spa/static/media/img3.94adc5838bd6d6c3d76f.jpg",
+    "static/media/img5.jpg": "/react-spa/static/media/img5.8f41ec4971b34c4e30d4.jpg",
+    "static/media/img1.jpg": "/react-spa/static/media/img1.6ce00d540bd63279c618.jpg",
+    "static/media/img2.jpg": "/react-spa/static/media/img2.0bbb84acd360b1ce6107.jpg",
+    "static/media/img6.jpeg": "/react-spa/static/media/img6.ff6bbf6bb49598dd9a0a.jpeg",
+    "static/media/img4.jpg": "/react-spa/static/media/img4.62c2ea53a2296c698d94.jpg",
+    "static/media/avatar.jpg": "/react-spa/static/media/avatar.6f137698ebb956eb34d1.jpg",
+    "static/media/star-wars-women.jpg": "/react-spa/static/media/star-wars-women.4f9c4ff0e61a45a89ae8.jpg",
+    "static/media/logo.png": "/react-spa/static/media/logo.ecadf4aed28076151ebf.png",
+    "static/media/share.png": "/react-spa/static/media/share.fc05146f41b6febd66ae.png",
+    "static/media/likes.png": "/react-spa/static/media/likes.f6cd4cd0960c12feca30.png",
+    "static/media/comments.png": "/react-spa/static/media/comments.b2cccce5ba9db4c03655.png",
+    "static/media/logo-react.png": "/react-spa/static/media/logo-react.b9da0fe2a9d748720aba.png",
     "index.html": "/react-spa/index.html",
-    "main.073c9b0a.css.map": "/react-spa/static/css/main.073c9b0a.css.map",
-    "main.d54b814b.js.map": "/react-spa/static/js/main.d54b814b.js.map",
-    "787.14fe134e.chunk.js.map": "/react-spa/static/js/787.14fe134e.chunk.js.map"
+    "main.5e133042.css.map": "/react-spa/static/css/main.5e133042.css.map",
+    "main.497082e1.js.map": "/react-spa/static/js/main.497082e1.js.map",
+    "651.d1f6e5b4.chunk.js.map": "/react-spa/static/js/651.d1f6e5b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.d54b814b.js"
+    "static/css/main.5e133042.css",
+    "static/js/main.497082e1.js"
   ]
 }
